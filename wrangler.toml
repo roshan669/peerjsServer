@@ -1,0 +1,3 @@
+name = "peerjs" # Choose a name for your worker
+main = "index.js" # The entry point file
+compatibility_date = "2025-11-14" # Update to a recent date
